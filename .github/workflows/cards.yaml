@@ -1,0 +1,32 @@
+name: Update README Stats Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs automatically every day at midnight
+  workflow_dispatch: # Allows you to run it manually anytime
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      # Generates your main stats card
+      - name: Generate Stats Card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: 'username=Simplicity005&show_icons=true&theme=radical'
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Generates your top programming languages card
+      - name: Generate Top Langs Card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: 'username=Simplicity005&layout=compact&theme=radical'
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
