@@ -22,8 +22,8 @@ I'm a passionate developer and tech enthusiast currently focused on building cle
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Arjun's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Simplicity005&show_icons=true&theme=radical" alt="Arjun's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simplicity005&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 ---
