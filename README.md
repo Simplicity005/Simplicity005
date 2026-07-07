@@ -66,16 +66,16 @@ I'm a passionate developer and tech enthusiast currently focused on building cle
 <tr>
 <td width="50%" valign="top">
 
-** [Portfolio Website](https://github.com/Simplicity005/Simplicity005.github.io)**
+**[Portfolio Website](https://github.com/Simplicity005/Simplicity005.github.io)**
 
-A sleek, responsive developer portfolio featuring a modern, card-based "bento box" layout. Built with CSS Flexbox/Grid and optimized for clean navigation.
+A sleek, responsive developer portfolio featuring a modern, card-based layout. Built with CSS Flexbox/Grid and optimized for clean navigation.
 
 `CSS` `Flexbox` `Grid`
 
 </td>
 <td width="50%" valign="top">
 
-** [Embedded Systems / IoT Projects](https://github.com/Simplicity005/iisc-final-project-automated-car)**
+**[Embedded Systems / IoT Projects](https://github.com/Simplicity005/iisc-final-project-automated-car)**
 
 Hobby electronics implementations using ESP32 and Arduino, focusing on hardware-software interfacing, sensor integration, and efficient power management.
 
