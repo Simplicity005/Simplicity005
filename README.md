@@ -39,6 +39,6 @@ I'm a passionate developer and tech enthusiast currently focused on building cle
 
 ### 🤝 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-external-media/linkedin.svg" alt="YOUR_LINKEDIN" height="30" width="40" /></a>
-  <a href="mailto:your.email@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-external-media/email.svg" alt="your.email@example.com" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/arjun-sanesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-external-media/linkedin.svg" alt="ARJUN_SANESH_LINKEDIN" height="30" width="40" /></a>
+
 </p>
