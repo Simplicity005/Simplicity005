@@ -1,7 +1,0 @@
-Title: Arjun Sanesh
-Domain: Software
-Tags: Portfolio, Developer, Embedded, Hardware
-Year: 2024
-
-About:
-This repository acts as a personal portfolio and developer profile showcasing work across software, embedded systems, and hardware projects. It highlights the creator’s technical interests, skills, and featured projects.
