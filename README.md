@@ -1,44 +1,79 @@
-# Arjun Sanesh
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/arjun-sanesh)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/SimpleMindedMoron)
-
-> Developer focused on building clean, efficient software, tinkering with hardware and electricity (and maybe even blowing up a fuse). 
-
-I'm currently living under a cemented rock, where I just play with hardware and software, see what works and don't.
-
-### Currently
-- 🛠 **Building:** Websites, Projects and so on.
-- 🔭 **Exploring:** Embedded systems, interactive UI design.
-- 🏎 **Off duty:** Watching F1, Trying to build solutions for my daily problems (Example: minimal-calendar).
-
----
-
-### Tech Stack
-
-**Languages:**  
-`C` `C++` `Python` `JavaScript` `SQL` `HTML/CSS`
-
-**Frameworks & Tools:**  
-`React` `Node.js` `Next.js` `PostgreSQL`
-
----
-
-### Stats
-
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Simplicity005&rank_icon=percentile&custom_title=Statistics%20Island&show_icons=true&include_all_commits=true&theme=chartreuse-dark" width="49%" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Simplicity005&layout=compact&langs_count=6&theme=chartreuse-dark" width="37%" alt="Top Languages" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=Simplicity005&hide_border=true&background=00000000&ring=9D6FFF&fire=9D6FFF&currStreakLabel=9D6FFF&sideLabels=8B90A3&currStreakNum=F5F5F7&sideNums=F5F5F7&dates=8B90A3" width="50%" alt="GitHub Streak" />
+
+<br>
+
+# ARJUN SANESH
+
+**Software, hardware, and everything in between.**
+
+Developer focused on building clean, efficient software,<br>
+tinkering with hardware and electricity (and maybe even blowing up a fuse).
+
+<br>
+
+[LinkedIn](https://linkedin.com/in/arjun-sanesh) &nbsp;/&nbsp; [GitHub](https://github.com/SimpleMindedMoron) &nbsp;/&nbsp; [Portfolio](https://github.com/SimpleMindedMoron/SimpleMindedMoron.github.io)
+
+<br>
+
 </div>
 
 ---
 
-### Featured Projects
+## About
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Portfolio Website](https://github.com/SimpleMindedMoron/SimpleMindedMoron.github.io)** | Responsive developer portfolio with a modern, card-based layout, built with Flexbox/Grid and tuned for clean navigation. | `React` `Node.js` `Vanilla CSS` |
-| **[Embedded Systems / IoT](https://github.com/SimpleMindedMoron/iisc-final-project-automated-car)** | Hobby electronics on ESP32 and Arduino, focused on hardware-software interfacing, sensor integration, and power management. | `ESP32` `Arduino` `Embedded C` `Python` `ROS2 Jazzy` |
-| **[Shared Calendar Website: Align / WebDev](https://github.com/SimpleMindedMoron/minimal-calendar)** | Responsive shared calendar app to keep track of time and to-do tasks. I built this because I wanted to organize my life and have a shared space for group projects to visualize deadlines. | `Next.js` `Modular CSS` `PostgreSQL` |
+I'm currently living under a cemented rock, where I play with hardware and software, see what works, and learn from what doesn't.
+
+```text
+name         Arjun Sanesh
+building     Websites, projects, and tools for my own problems
+exploring    Embedded systems, interactive UI design
+off duty     Watching F1, building solutions for daily annoyances
+```
+
+---
+
+## Stack
+
+| | |
+| :--- | :--- |
+| **Languages** | `C` &nbsp; `C++` &nbsp; `Python` &nbsp; `JavaScript` &nbsp; `SQL` &nbsp; `HTML/CSS` |
+| **Web** | `React` &nbsp; `Next.js` &nbsp; `Node.js` |
+| **Data** | `PostgreSQL` |
+| **Hardware** | `ESP32` &nbsp; `Arduino` &nbsp; `Embedded C` &nbsp; `ROS2 Jazzy` |
+
+---
+
+## Selected Work
+
+### [Align](https://github.com/SimpleMindedMoron/minimal-calendar)
+*Shared calendar and task tracker*
+
+A responsive shared calendar app for keeping track of time and to-do tasks. Built to organize my own life and to give group projects a shared space to visualize deadlines.
+
+`Next.js` &nbsp; `Modular CSS` &nbsp; `PostgreSQL`
+
+<br>
+
+### [Embedded Systems / IoT](https://github.com/SimpleMindedMoron/iisc-final-project-automated-car)
+*Hobby electronics and autonomous hardware*
+
+Projects on ESP32 and Arduino, focused on hardware-software interfacing, sensor integration, and power management.
+
+`ESP32` &nbsp; `Arduino` &nbsp; `Embedded C` &nbsp; `Python` &nbsp; `ROS2 Jazzy`
+
+<br>
+
+### [Portfolio Website](https://github.com/SimpleMindedMoron/SimpleMindedMoron.github.io)
+*Personal developer portfolio*
+
+A responsive portfolio with a modern, card-based layout, built with Flexbox and Grid and tuned for clean navigation.
+
+`React` &nbsp; `Node.js` &nbsp; `Vanilla CSS`
+
+---
+
+<div align="center">
+
+<sub>Always building. Occasionally breaking things on purpose.</sub>
+
+</div>
