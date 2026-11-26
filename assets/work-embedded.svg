@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="130" viewBox="0 0 860 130" role="img" aria-label="Embedded Systems &amp; IoT - Hobby electronics and autonomous hardware">
+  <style>
+    .b-hi { fill: #484F58; }
+    .b-lo { fill: #262C36; }
+    .b-mid { fill: #30363D; }
+    .b-dim { fill: #21262D; }
+    .s-icon { stroke: #7D8590; fill: none; }
+    .f-icon { fill: #7D8590; }
+    .fg-1 { fill: #E6EDF3; }
+    .fg-2 { fill: #9DA7B3; }
+    .fg-3 { fill: #6E7681; }
+    .sans { font-family: Tahoma, 'Segoe UI', -apple-system, BlinkMacSystemFont, Arial, sans-serif; }
+    .mono { font-family: Consolas, 'SF Mono', 'JetBrains Mono', Menlo, 'Liberation Mono', monospace; }
+    @media (prefers-color-scheme: light) {
+      .b-hi { fill: #AEB7C0; }
+      .b-lo { fill: #6E7781; }
+      .b-mid { fill: #D0D7DE; }
+      .b-dim { fill: #E6EAEF; }
+      .s-icon { stroke: #59636E; fill: none; }
+      .f-icon { fill: #59636E; }
+      .fg-1 { fill: #1F2328; }
+      .fg-2 { fill: #59636E; }
+      .fg-3 { fill: #6E7781; }
+    }
+  </style>
+  <g shape-rendering="crispEdges">
+    <rect class="b-hi" x="0" y="0" width="859" height="1"/>
+    <rect class="b-hi" x="0" y="0" width="1" height="129"/>
+    <rect class="b-lo" x="0" y="129" width="860" height="1"/>
+    <rect class="b-lo" x="859" y="0" width="1" height="130"/>
+    <rect class="b-mid" x="4" y="4" width="852" height="1"/>
+    <rect class="b-mid" x="4" y="25" width="852" height="1"/>
+    <rect class="b-mid" x="4" y="4" width="1" height="22"/>
+    <rect class="b-mid" x="855" y="4" width="1" height="22"/>
+    <rect class="f-icon" x="11" y="9" width="9" height="1"/>
+    <rect class="f-icon" x="11" y="20" width="9" height="1"/>
+    <rect class="f-icon" x="11" y="9" width="1" height="12"/>
+    <rect class="f-icon" x="19" y="9" width="1" height="12"/>
+    <rect class="f-icon" x="13" y="12" width="5" height="1"/>
+    <rect class="f-icon" x="13" y="14" width="5" height="1"/>
+    <rect class="f-icon" x="13" y="16" width="3" height="1"/>
+    <rect class="b-hi" x="836" y="7" width="15" height="1"/>
+    <rect class="b-hi" x="836" y="7" width="1" height="15"/>
+    <rect class="b-lo" x="836" y="22" width="16" height="1"/>
+    <rect class="b-lo" x="851" y="7" width="1" height="16"/>
+    <rect class="b-hi" x="818" y="7" width="15" height="1"/>
+    <rect class="b-hi" x="818" y="7" width="1" height="15"/>
+    <rect class="b-lo" x="818" y="22" width="16" height="1"/>
+    <rect class="b-lo" x="833" y="7" width="1" height="16"/>
+    <rect class="f-icon" x="822" y="11" width="8" height="1"/>
+    <rect class="f-icon" x="822" y="18" width="8" height="1"/>
+    <rect class="f-icon" x="822" y="11" width="1" height="8"/>
+    <rect class="f-icon" x="829" y="11" width="1" height="8"/>
+    <rect class="f-icon" x="822" y="11" width="8" height="2"/>
+    <rect class="b-hi" x="801" y="7" width="15" height="1"/>
+    <rect class="b-hi" x="801" y="7" width="1" height="15"/>
+    <rect class="b-lo" x="801" y="22" width="16" height="1"/>
+    <rect class="b-lo" x="816" y="7" width="1" height="16"/>
+    <rect class="f-icon" x="805" y="17" width="8" height="2"/>
+    <rect class="b-mid" x="26" y="92" width="57" height="1"/>
+    <rect class="b-mid" x="26" y="114" width="57" height="1"/>
+    <rect class="b-mid" x="26" y="92" width="1" height="23"/>
+    <rect class="b-mid" x="82" y="92" width="1" height="23"/>
+    <rect class="b-mid" x="91" y="92" width="72" height="1"/>
+    <rect class="b-mid" x="91" y="114" width="72" height="1"/>
+    <rect class="b-mid" x="91" y="92" width="1" height="23"/>
+    <rect class="b-mid" x="162" y="92" width="1" height="23"/>
+    <rect class="b-mid" x="171" y="92" width="94" height="1"/>
+    <rect class="b-mid" x="171" y="114" width="94" height="1"/>
+    <rect class="b-mid" x="171" y="92" width="1" height="23"/>
+    <rect class="b-mid" x="264" y="92" width="1" height="23"/>
+    <rect class="b-mid" x="273" y="92" width="64" height="1"/>
+    <rect class="b-mid" x="273" y="114" width="64" height="1"/>
+    <rect class="b-mid" x="273" y="92" width="1" height="23"/>
+    <rect class="b-mid" x="336" y="92" width="1" height="23"/>
+    <rect class="b-mid" x="345" y="92" width="94" height="1"/>
+    <rect class="b-mid" x="345" y="114" width="94" height="1"/>
+    <rect class="b-mid" x="345" y="92" width="1" height="23"/>
+    <rect class="b-mid" x="438" y="92" width="1" height="23"/>
+    <rect class="b-hi" x="720" y="38" width="113" height="1"/>
+    <rect class="b-hi" x="720" y="38" width="1" height="23"/>
+    <rect class="b-lo" x="720" y="61" width="114" height="1"/>
+    <rect class="b-lo" x="833" y="38" width="1" height="24"/>
+  </g>
+  <g>
+    <text class="mono fg-3" x="26" y="19" font-size="11.5">C:\arjun\work\embedded_iot.exe</text>
+    <path class="s-icon" d="M840.5 11.5 L847.5 18.5 M847.5 11.5 L840.5 18.5" stroke-width="1.25"/>
+    <text x="26" y="55"><tspan class="sans fg-1" font-size="15" font-weight="700">Embedded Systems &amp; IoT</tspan><tspan class="sans fg-3" font-size="12.5" dx="10">/  Hobby electronics and autonomous hardware</tspan></text>
+    <text class="mono fg-2" x="777.0" y="54" text-anchor="middle" font-size="11">Open Repo</text>
+    <text class="sans fg-2" x="26" y="79" font-size="13">Projects on ESP32 and Arduino focused on hardware-software interfacing, sensor integration, and power management.</text>
+    <text class="mono fg-2" x="54.5" y="107" text-anchor="middle" font-size="11.5">ESP32</text>
+    <text class="mono fg-2" x="127.0" y="107" text-anchor="middle" font-size="11.5">Arduino</text>
+    <text class="mono fg-2" x="218.0" y="107" text-anchor="middle" font-size="11.5">Embedded C</text>
+    <text class="mono fg-2" x="305.0" y="107" text-anchor="middle" font-size="11.5">Python</text>
+    <text class="mono fg-2" x="392.0" y="107" text-anchor="middle" font-size="11.5">ROS2 Jazzy</text>
+  </g>
+</svg>
