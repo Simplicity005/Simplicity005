@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="140" viewBox="0 0 1000 140" role="img" aria-label="Always building. Occasionally breaking things on purpose.">
-<style>.run{animation:run 5s linear infinite}@keyframes run{from{stroke-dashoffset:0}to{stroke-dashoffset:-1000}}</style>
-<defs><filter id="b" x="-10%" y="-100%" width="120%" height="300%"><feGaussianBlur stdDeviation="4"/></filter></defs>
-<path d="M60,56 L340,56 L352,56 L362,46 L372,56 L404,56 L414,62 L426,16 L440,92 L452,56 L486,56 L500,42 L514,56 L700,56 L710,56 L720,50 L730,56 L760,56 L768,60 L776,34 L786,76 L794,56 L940,56" fill="none" stroke="#2A2A35" stroke-width="1.5" stroke-linejoin="round"/>
-<path class="run" d="M60,56 L340,56 L352,56 L362,46 L372,56 L404,56 L414,62 L426,16 L440,92 L452,56 L486,56 L500,42 L514,56 L700,56 L710,56 L720,50 L730,56 L760,56 L768,60 L776,34 L786,76 L794,56 L940,56" pathLength="1000" fill="none" stroke="#9D6FFF" stroke-width="7" stroke-opacity="0.45" stroke-dasharray="120 880" stroke-linejoin="round" filter="url(#b)"/>
-<path class="run" d="M60,56 L340,56 L352,56 L362,46 L372,56 L404,56 L414,62 L426,16 L440,92 L452,56 L486,56 L500,42 L514,56 L700,56 L710,56 L720,50 L730,56 L760,56 L768,60 L776,34 L786,76 L794,56 L940,56" pathLength="1000" fill="none" stroke="#9D6FFF" stroke-width="2.5" stroke-dasharray="120 880" stroke-linejoin="round" stroke-linecap="round"/>
-<text x="500" y="128" text-anchor="middle" font-family="'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="3" fill="#8B90A3">ALWAYS BUILDING. OCCASIONALLY BREAKING THINGS ON PURPOSE.</text>
-</svg>

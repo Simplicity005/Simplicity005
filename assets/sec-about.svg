@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="72" viewBox="0 0 1000 72" role="img" aria-label="About">
-<text x="0" y="16" font-family="'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="3" fill="#9D6FFF">01</text>
-<style>.t{fill:#F5F5F7}@media (prefers-color-scheme: light){.t{fill:#0B0B0F}}</style>
-<text class="t" x="0" y="58" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="5">ABOUT</text>
-<line x1="159" y1="46" x2="1000" y2="46" stroke="#2A2A35" stroke-width="1.5"/>
-<rect y="45" width="60" height="3" rx="1.5" fill="#9D6FFF"><animate attributeName="x" values="159;940" dur="4s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.45 0 0.55 1"/></rect>
-</svg>
