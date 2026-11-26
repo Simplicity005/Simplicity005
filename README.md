@@ -1,79 +1,80 @@
 <div align="center">
 
-<br>
-
-# ARJUN SANESH
-
-**Software, hardware, and everything in between.**
-
-Developer focused on building clean, efficient software,<br>
-tinkering with hardware and electricity (and maybe even blowing up a fuse).
+<img src="assets/header.svg" alt="Arjun Sanesh" width="100%">
 
 <br>
 
-[LinkedIn](https://linkedin.com/in/arjun-sanesh) &nbsp;/&nbsp; [GitHub](https://github.com/SimpleMindedMoron) &nbsp;/&nbsp; [Portfolio](https://github.com/SimpleMindedMoron/SimpleMindedMoron.github.io)
+<a href="https://github.com/SimpleMindedMoron"><img src="assets/btn-github.svg" alt="GitHub" height="46"></a>&nbsp;
+<a href="https://linkedin.com/in/arjun-sanesh"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="46"></a>&nbsp;
+<a href="https://github.com/SimpleMindedMoron/SimpleMindedMoron.github.io"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="46"></a>
 
-<br>
+<br><br>
+
+<img src="assets/marquee.svg" alt="C, C++, Python, JavaScript, SQL, HTML/CSS, React, Next.js, Node.js, PostgreSQL, ESP32, Arduino, Embedded C, ROS2 Jazzy" width="100%">
 
 </div>
 
----
+<br>
 
-## About
+<img src="assets/sec-about.svg" alt="About" width="100%">
 
-I'm currently living under a cemented rock, where I play with hardware and software, see what works, and learn from what doesn't.
+I'm currently living under a cemented rock, where I play with hardware and software, see what works, and learn from what doesn't. I like things that are small, fast and clean, and I like them even more when they have wires attached.
 
-```text
-name         Arjun Sanesh
-building     Websites, projects, and tools for my own problems
-exploring    Embedded systems, interactive UI design
-off duty     Watching F1, building solutions for daily annoyances
-```
-
----
-
-## Stack
-
-| | |
-| :--- | :--- |
-| **Languages** | `C` &nbsp; `C++` &nbsp; `Python` &nbsp; `JavaScript` &nbsp; `SQL` &nbsp; `HTML/CSS` |
-| **Web** | `React` &nbsp; `Next.js` &nbsp; `Node.js` |
-| **Data** | `PostgreSQL` |
-| **Hardware** | `ESP32` &nbsp; `Arduino` &nbsp; `Embedded C` &nbsp; `ROS2 Jazzy` |
-
----
-
-## Selected Work
-
-### [Align](https://github.com/SimpleMindedMoron/minimal-calendar)
-*Shared calendar and task tracker*
-
-A responsive shared calendar app for keeping track of time and to-do tasks. Built to organize my own life and to give group projects a shared space to visualize deadlines.
-
-`Next.js` &nbsp; `Modular CSS` &nbsp; `PostgreSQL`
+<img src="assets/terminal.svg" alt="Terminal output: Arjun Sanesh, developer focused on clean, efficient software, exploring embedded systems and interactive UI design, off duty watching F1" width="100%">
 
 <br>
 
-### [Embedded Systems / IoT](https://github.com/SimpleMindedMoron/iisc-final-project-automated-car)
-*Hobby electronics and autonomous hardware*
+<img src="assets/sec-stack.svg" alt="Stack" width="100%">
 
-Projects on ESP32 and Arduino, focused on hardware-software interfacing, sensor integration, and power management.
-
-`ESP32` &nbsp; `Arduino` &nbsp; `Embedded C` &nbsp; `Python` &nbsp; `ROS2 Jazzy`
+<img src="assets/stack.svg" alt="Languages: C, C++, Python, JavaScript, SQL, HTML/CSS. Web: React, Next.js, Node.js. Data: PostgreSQL. Hardware: ESP32, Arduino, Embedded C, ROS2 Jazzy." width="100%">
 
 <br>
 
-### [Portfolio Website](https://github.com/SimpleMindedMoron/SimpleMindedMoron.github.io)
-*Personal developer portfolio*
+<img src="assets/sec-work.svg" alt="Work" width="100%">
 
-A responsive portfolio with a modern, card-based layout, built with Flexbox and Grid and tuned for clean navigation.
+<sub>Click a project to expand it.</sub>
 
-`React` &nbsp; `Node.js` &nbsp; `Vanilla CSS`
+<details open>
+<summary><b>01 &nbsp;&nbsp; ALIGN</b> &nbsp;/&nbsp; Shared calendar and task tracker</summary>
+<br>
+<p>A responsive shared calendar app for keeping track of time and to-do tasks. I built it because I wanted to organize my life, and because group projects needed a shared space to visualize deadlines.</p>
+<img src="assets/tags-align.svg" alt="Next.js, Modular CSS, PostgreSQL">
+<br><br>
+<a href="https://github.com/SimpleMindedMoron/minimal-calendar"><img src="assets/btn-repo.svg" alt="View repository" height="46"></a>
+<br><br>
+</details>
 
----
+<details>
+<summary><b>02 &nbsp;&nbsp; EMBEDDED SYSTEMS / IOT</b> &nbsp;/&nbsp; Hobby electronics and autonomous hardware</summary>
+<br>
+<p>Hobby electronics on ESP32 and Arduino, focused on hardware-software interfacing, sensor integration and power management.</p>
+<img src="assets/tags-embedded.svg" alt="ESP32, Arduino, Embedded C, Python, ROS2 Jazzy">
+<br><br>
+<a href="https://github.com/SimpleMindedMoron/iisc-final-project-automated-car"><img src="assets/btn-repo.svg" alt="View repository" height="46"></a>
+<br><br>
+</details>
+
+<details>
+<summary><b>03 &nbsp;&nbsp; PORTFOLIO WEBSITE</b> &nbsp;/&nbsp; Personal developer portfolio</summary>
+<br>
+<p>A responsive developer portfolio with a modern, card-based layout, built with Flexbox and Grid and tuned for clean navigation.</p>
+<img src="assets/tags-portfolio.svg" alt="React, Node.js, Vanilla CSS">
+<br><br>
+<a href="https://github.com/SimpleMindedMoron/SimpleMindedMoron.github.io"><img src="assets/btn-repo.svg" alt="View repository" height="46"></a>
+<br><br>
+</details>
+
+<br>
+
+<img src="assets/sec-connect.svg" alt="Connect" width="100%">
+
+Have a project, a bug, or a blown fuse to discuss? Find me here.
+
+<a href="https://linkedin.com/in/arjun-sanesh"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="46"></a>&nbsp;
+<a href="https://github.com/SimpleMindedMoron"><img src="assets/btn-github.svg" alt="GitHub" height="46"></a>
 
 <div align="center">
 
-<sub>Always building. Occasionally breaking things on purpose.</sub>
+<img src="assets/footer.svg" alt="Always building. Occasionally breaking things on purpose." width="100%">
 
 </div>
